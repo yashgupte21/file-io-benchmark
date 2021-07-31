@@ -1,2 +1,2 @@
 # file-io-benchmark
-File IO Benchmarking - Cloud Computing
+File IO Benchmarking - Distributed Systems
